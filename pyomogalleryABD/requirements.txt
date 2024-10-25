@@ -1,0 +1,7 @@
+jupyter-book
+matplotlib
+numpy
+pandas
+pyomo
+openpyxl
+scipy
